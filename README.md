@@ -4,7 +4,7 @@ This repository contains solutions to various computational and algorithmic chal
 
 ## Notebook Overview
 
-The notebook includes the following problem solutions:
+The notebook includes the following problem solutions:-
 
 ### 1. Balancing Chemical Equations
 A function designed to balance a chemical equation by parsing the reactants and products, identifying unique elements, setting up a system of linear equations, and solving them. The function uses symbolic computation to provide integer coefficients that represent the balanced form of the equation.
